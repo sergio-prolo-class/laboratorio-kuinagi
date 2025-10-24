@@ -3,6 +3,9 @@ import java.util.Scanner;
 
 public class Exercicio5 {
     public static void main(String[] args) {
+        // vars
+        
+        //-----------------------
         Scanner sc = new Scanner(System.in);
 
         System.out.print("Digite um número entre 1 e 99: ");

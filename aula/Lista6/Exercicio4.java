@@ -8,7 +8,7 @@ public class Exercicio4 {
 
         double transação = sc.nextDouble(); 
 
-        double comissão = 0;
+        double comissão;
 
         if (transação < 2500){
             comissão = 30 + (transação * 0.017);
