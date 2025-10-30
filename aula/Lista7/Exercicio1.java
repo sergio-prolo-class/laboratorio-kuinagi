@@ -5,6 +5,7 @@ public class Exercicio1 {
         Scanner sc = new Scanner(System.in);
 
         int linhas;
+        int num = 1;
         
         do{
           System.out.print("Insira quantas linhas terá o Triângulo de Floyd: ");
